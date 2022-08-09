@@ -1,0 +1,14 @@
+.input {
+    height: auto;
+    width: 80px;
+    border-radius: 5px;
+    border: 2px solid #83B0C1 ;
+}
+
+.inputError {
+    height: auto;
+    width: 80px;
+    border-radius: 5px;
+    border: 2px solid #bd0a42;
+    background-color: #c0406a;
+}
